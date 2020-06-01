@@ -1,6 +1,7 @@
 ---
 title: Urbanclap
 description: Urban Company provides a platform that allows skilled and experienced professionals to connect with users looking for specific services.  I built this using React js, Node js, Express js, React Native
+url: https://www.urbanclap.com
 date: 2019-06-28
 template: portfolio
 image: ./image.jpg

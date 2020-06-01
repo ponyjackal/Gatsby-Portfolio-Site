@@ -1,6 +1,7 @@
 ---
 title: Kinder-ID
 description: KinderID is a Norwegian safety solution that helps you reunite with your lost children or misplaced items. Perfect for traveling, excursions or in a hectic daily life. I built this using MERN Stack and Twilio.
+url: https://kinder-id.com/en/
 date: 2016-06-28
 template: portfolio
 image: ./image.jpg

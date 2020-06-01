@@ -146,7 +146,7 @@ class IndexPage extends React.Component {
                     </div>
                 </div>
                 <PortfolioList />
-                <BlogList />
+                {/* <BlogList /> */}
                 <Contact />
             </Layout>
         );

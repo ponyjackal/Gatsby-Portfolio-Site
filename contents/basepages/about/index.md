@@ -4,7 +4,7 @@ template: basepage
 image: ./image.png
 ---
 
-I am Yarosalve from Kyiv, senior MERN stack expert with 5 years fo practical experience.
+I am Yarosalv from Kyiv, senior MERN stack expert with 5 years fo practical experience.
 After I graduated from Taras Shevchenko National University of Kyiv as Bachelor of Science, I started to work for Luxoft in Kyiv.
 I've walked through tons of various range of projects in many stacks including MERN, LAMP, MEAN, MEVN and Laravel/Vue , .NET CORE/Angular.
 As a big fan of FaceBook Tech, I mainly focused on React for the frontend and GraphQL for the APIs as well as Express for the backend and APIs for web and mobile apps.

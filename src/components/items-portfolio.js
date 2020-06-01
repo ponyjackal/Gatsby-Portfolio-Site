@@ -15,20 +15,20 @@ class PortfolioItem extends React.Component {
                                     .childImageSharp.fluid
                             }
                         />
-                        <Link
-                            to={this.props.data.node.fields.slug}
+                        <a
+                            // to={this.props.data.node.fields.slug}
+                            href={this.props.data.node.frontmatter.url}
                             title={this.props.data.node.frontmatter.title}
                             aria-label={this.props.data.node.frontmatter.title}
                             className="overlay-link"
                             style={{ opacity: 0 }}
                         >
                             {this.props.data.node.frontmatter.title}
-                        </Link>
+                        </a>
                     </div>
                     <div className="col m6 content">
                         <h2 className="text-primary pseudo-divider">
                             <Link
-                                to={this.props.data.node.fields.slug}
                                 title={this.props.data.node.frontmatter.title}
                                 aria-label={
                                     this.props.data.node.frontmatter.title
