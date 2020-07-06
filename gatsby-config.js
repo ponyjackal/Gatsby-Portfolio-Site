@@ -1,12 +1,13 @@
 const siteMetadata = {
-    title: `Yaroslav Liulka`,
+    title: `Michael Wu`,
     siteUrl: `http://localhost`,
     capitalizeTitleOnHome: true,
     logo: `/images/logo.png`,
     icon: `/images/icon.png`,
     titleImage: `/images/wall.jpg`,
-    introTag: `MERN Stack Developer`,
-    description: `I am Yaroslav Liulka from Kyiv, I specialize in React js, React Native, GraphQL, Express js and Twilio.`,
+    introTag: `Professional Software Engineer`,
+    description: `I am Michael Wu from Japan, graduated from University of San Francisco with Bachelor degree of Computer Science.
+    I've been in web development over the last 7 years and my most expertise has been in Ruby on Rails, Node js and PHP for the backend and React, Angular for the frontend as well.`,
     author: `@Pony`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -37,7 +38,7 @@ const siteMetadata = {
         },
         {
             name: "GitHub",
-            url: "https://github.com/akzhy/gatsby-starter-elemental"
+            url: "https://github.com/PonyJackal/Gatsby-Portfolio-Site"
         }
     ],
     social: [
@@ -49,7 +50,7 @@ const siteMetadata = {
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#"
+            url: "https://twitter.com/Michael71276717"
         },
         {
             name: "Instagram",
@@ -66,9 +67,9 @@ const siteMetadata = {
         /* Leave the below value completely empty (no space either) if you don't want a contact form. */
         api_url: "./test.json",
         description: `Please feel free to contact me if you need my help`,
-        mail: "ponyjackal1125@gmail.com",
-        phone: "7-984-150-3251",
-        address: "Pr-t Svobody 14 \n Kyiv\n Ukraine"
+        mail: "michaelwu912@yahoo.com",
+        phone: "+81 3-5226-4126",
+        address: "13-913 Mihogaoka, Ibaraki City, Osaka, Japan"
     }
     // this is optional. you can uncomment this if you use disqus
     // disqus: `your-disqus-shortname`

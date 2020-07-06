@@ -1,8 +1,8 @@
 ---
-title: Urbanclap
-description: Urban Company provides a platform that allows skilled and experienced professionals to connect with users looking for specific services.  I built this using React js, Node js, Express js, React Native
-url: https://www.urbanclap.com
-date: 2019-06-28
+title: 4Stay
+description: "Designed database schema. \n Developed a Rails 4 backend from scratch.  \n Wrote test code using RSpec. \n Dockerized ROR applications. \n Supported the DevOps team to automate CI/CD processes.  \n Upgraded Rails version of the app to the latest. \n Tech: Ruby on Rails"
+url: https://4stay.com/
+date: 2018-11-25
 template: portfolio
 image: ./image.jpg
 ---
